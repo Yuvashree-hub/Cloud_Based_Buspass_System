@@ -3,7 +3,7 @@
 A web-based ticket booking system that allows users to book and manage tickets online through a simple and user-friendly interface.
 
 ## Live Demo
-cloud-based-buspass-system-rzo9.vercel.app
+https://cloud-based-buspass-system-rzo9.vercel.app/
 
 ## Technologies
 - Python
